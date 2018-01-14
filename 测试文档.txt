@@ -4,6 +4,4 @@ hellworld
 
 这是我的第一个githup文档
 
-不太熟悉啊
-
 hehe
